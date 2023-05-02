@@ -3,7 +3,7 @@
 
 - 🔭 I recently graduated at **Le Wagon's Web Developement Bootcamp!**
 
-- 🌱 I’m currently learning **React and Python.**
+- 🌱 I’m currently learning **Python and Django.**
 
 - 👨‍💻 I’m looking forward to land my first **tech job!**
 
