@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java and Spring**
 
-- 👨‍💻 I’m looking forward to land my first **tech job!**
-
 - 📫 You can reach me at **fabiotrajano.eng@gmail.com**
 
 
