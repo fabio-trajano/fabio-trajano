@@ -19,4 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabio-trajano&show_icons=true&locale=en&layout=compact" alt="fabio-trajano" /></p>
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabio-trajano&" alt="fabio-trajano" /></p>
