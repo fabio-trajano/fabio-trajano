@@ -3,7 +3,7 @@
 
 - 🔭 I recently graduated at **Le Wagon's Web Developement Bootcamp!**
 
-- 🌱 I’m currently learning **Java and Spring**
+- 🌱 I’m currently a Backend developer intern at **Blip.pt**
 
 - 📫 You can reach me at **fabiotrajano.eng@gmail.com**
 
