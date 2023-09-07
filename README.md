@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio Ramalho</h1>
 <h3 align="center">Full-stack web developer, passionate about problem-solving and innovation</h3>
 
-- 🔭 I recently graduated at **Le Wagon's Web Developement Bootcamp!**
+- 🔭 I recently graduated at **Le Wagon's Full-stack Web Developement Bootcamp!**
 
 - 🌱 I’m currently a Backend developer intern at **Blip.pt**
 
