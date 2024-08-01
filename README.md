@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio Ramalho</h1>
 <h3 align="center">Backend Software developer, passionate about problem-solving and innovation</h3>
 
-- 👨‍💻 I’m currently an Associate Backend Software Engineer at [**Blip.pt**](https://www.blip.pt/) | [**Fanduel US**](https://www.fanduel.com/)
+- 👨‍💻 I’m currently an Associate Backend Software Engineer at [**Blip.pt**](https://www.blip.pt/) | [**Fanduel US**](https://www.flutter.com/)
 
   - My professional repo: [fabio-ramalho-fd](https://github.com/fabio-ramalho-fd)
  
