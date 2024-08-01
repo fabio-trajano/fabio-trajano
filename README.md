@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently an Associate Backend Software Engineer at [**Blip.pt**](https://www.blip.pt/) | [**Fanduel US**](https://www.flutter.com/)
 
-  - My professional repo: [fabio-ramalho-fd](https://github.com/fabio-ramalho-fd)
+  - My professional GitHub profile: [fabio-ramalho-fd](https://github.com/fabio-ramalho-fd)
  
 - Check out my personal portfolio at [fabiotrajano.com](https://www.fabiotrajano.com)
 
