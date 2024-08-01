@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fabio Ramalho</h1>
 <h3 align="center">Backend Software developer, passionate about problem-solving and innovation</h3>
 
-- 👨‍💻 I’m currently an Associate Backend Software Engineer at [**Blip.pt**](https://www.blip.pt/)
+- 👨‍💻 I’m currently an Associate Backend Software Engineer at [**Blip.pt**](https://www.blip.pt/) | [**Fanduel US**](https://www.fanduel.com/)
 
   - My professional repo: [fabio-ramalho-fd](https://github.com/fabio-ramalho-fd)
+ 
+- Check out my personal portfolio at [fabiotrajano.com](https://www.fabiotrajano.com)
 
 - 🌱 I'm currently studying AI technologies, including language models, computer vision, and deep learning, to innovate and elevate backend development.
 
 - 📫 You can reach me at **fabiotrajano.eng@gmail.com**
-
 
 
 <h3 align="left">🔗 Connect with me:</h3>
@@ -18,6 +19,7 @@
 </p>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.fabiotrajano.com)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
